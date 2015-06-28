@@ -10,6 +10,8 @@ docker-nginx_mruby
 # docker run -d -p 80:80 -it <your_name>/nginx_mruby:1
 ```
 
+And check http://your-server-ip/hello-mruby.
+
 
 # Login running docker process
 
